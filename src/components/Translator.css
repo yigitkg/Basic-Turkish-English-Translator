@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 5rem;
+    gap: 6rem;
+}
+.selector{
+    width: 8rem;
+}
+.translator{
+    gap: 5rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: center;
+}
